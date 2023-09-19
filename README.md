@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Portifólio" src="./assets/captura.png" width="100%">
+  <img alt="projeto Portifólio" src=".github//captura.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
