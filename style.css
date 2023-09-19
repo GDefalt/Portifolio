@@ -759,15 +759,10 @@ span {
   z-index: 98;
 }
 
-.animate.projects-img {
-  width: 100%;
-}
-
 .logo .animate,
 .navbar .animate,
 #menu-icon .animate,
-.home.show-animate .animate,
-.projects.show-animate .animate {
+.home.show-animate .animate {
   animation: showRight 1s ease forwards;
   animation-delay: calc(0.3s * var(--i));
 }
